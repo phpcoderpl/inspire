@@ -1,0 +1,17 @@
+{
+    "name": "phpcoderpl/inspire",
+    "autoload": {
+        "psr-4": {
+            "Phpcoderpl\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michał Woźniak",
+            "email": "michalw@phpcoder.pl"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
